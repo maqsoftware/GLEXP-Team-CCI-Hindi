@@ -20,7 +20,7 @@ Regardless of the content you wish to add, you will first need to create a new "
 
 * cordova create myProgram com.myCompany.myProgram myProgram
 * cd myProgram
-* cordova add platform android 
+* cordova platform add android 
 * Connect an android tablet for USB debugging
     * Buy a USB-C data transfer cable
     * Connect an android device
